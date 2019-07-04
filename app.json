@@ -1,7 +1,9 @@
 {
   "name": "Django One Click App",
   "description": "A Template for a Django Projec that uses Django Rest Framework",
-  "repository": "https://github.com/briancaffey/oneclickapp",
+  "repository": "https://github.com/clivern/oneclickapp",
+  "website": "http://clivern.com/",
+  "logo": "http://clivern.com/wp-content/uploads/2019/04/clivern_logo.png",
   "keywords": ["django", "python", "heroku"],
   "success_url":"/welcome",
   "env":{
@@ -11,9 +13,12 @@
       "generator": "secret"
     },
   },
-  "addons":[
+  "addons": [
     {
-	    "plan":"heroku-postgresql"
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "9.5"
+      }
     }
   ], 
   "scripts":
