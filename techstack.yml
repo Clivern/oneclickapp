@@ -2,7 +2,7 @@ repo_name: Clivern/oneclickapp
 report_id: 55e7701490bb2b89ce48f37eeb7ce828
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:24:56+00:00'
+timestamp: '2024-01-05T08:18:48+00:00'
 requested_by: Clivern
 provider: github
 branch: master
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Clivern/oneclickapp
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Clivern/oneclickapp
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Clivern/oneclickapp
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -45,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/oneclickapp
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -54,6 +58,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Clivern/oneclickapp/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Brian Caffey
   last_updated_on: 2017-11-12 01:40:39.000000000 Z
@@ -66,6 +71,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/133/3wgIDj3j.png
+  detection_source_url: https://github.com/Clivern/oneclickapp/blob/master/app.json
   detection_source: app.json
   last_updated_by: A. F
   last_updated_on: 2019-07-04 22:20:56.000000000 Z
@@ -77,6 +83,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/Clivern/oneclickapp/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Brian Caffey
   last_updated_on: 2017-11-12 01:40:39.000000000 Z
@@ -88,6 +95,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/Clivern/oneclickapp/blob/master/live-static/static-root/admin/fonts/LICENSE.txt
   detection_source: live-static/static-root/admin/fonts/LICENSE.txt
   last_updated_by: Brian Caffey
   last_updated_on: 2017-11-12 02:41:37.000000000 Z
@@ -100,6 +108,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Clivern/oneclickapp
   detection_source: Repo Metadata
 - name: Django
   description: A high-level Python Web framework that encourages rapid development
