@@ -3,12 +3,12 @@
 ## Tech Stack
 Clivern/oneclickapp is built on the following main stack:
 
-- [Heroku](https://www.heroku.com) – Platform as a Service
-- [Python](https://www.python.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
+- [Heroku](https://www.heroku.com) – Platform as a Service
 - [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Clivern/oneclickapp is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/133/3wgIDj3j.png' alt='Heroku'/> [Heroku](https://www.heroku.com) – Platform as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg' alt='Pillow'/> [Pillow](https://python-pillow.github.io/) – Image Processing and Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Clivern/oneclickapp](https://github.com/Clivern/oneclickapp)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|18<br/>Tools used|01/05/24 <br/>Report generated|
+|18<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
